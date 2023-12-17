@@ -1,3 +1,7 @@
+🗒️ For my additions to this repo, see the file: [notebooks/MY%20CLASS%20NOTES.ipynb](notebooks/MY%20CLASS%20NOTES.ipynb) 
+
+Below is the original Readme from the upstream project:
+
 # Lambda Notebook: Formal Semantics with Jupyter and Python
 
 This project is a framework for linguists and especially semanticists developing analyses in compositional semantics.  It aims to provide a means of developing 'digital fragments', following from the method of fragments in Montague grammar.
